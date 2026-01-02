@@ -39,23 +39,13 @@ Payments: Stripe Checkout
 Design: Custom CSS, dark-mode support, animated UI elements
 Architecture: Modular, extendable for backend services (Node / APIs)
 
-🎯 What This Project Is (and Isn’t)
+🎯 What This Project Is:
 
 This project is:
 
 A functional prototype
-
 A UX-first parking solution
-
 A foundation for a scalable parking marketplace
-
-This project is not:
-
-A production-ready commercial platform (yet)
-
-A clone of Park+ or PayTM Parking
-
-A gimmicky demo without real-world constraints
 
 🚀 Roadmap
 
