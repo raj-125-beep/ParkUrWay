@@ -1,6 +1,6 @@
 🚗 ParkUrWay — Smart Parking, Minus the Chaos
 
-Finding parking in Indian cities is broken. Roads are crowded, parking is unorganized, prices are opaque, and drivers waste fuel, time, and patience just circling blocks.
+Finding real parking in Indian cities is broken. Roads are crowded, parking is unorganized, prices are opaque, and drivers waste fuel, time, and patience just circling blocks.
 ParkUrWay is a smart parking discovery and booking platform that helps users find verified parking locations, check availability, calculate cost upfront, and pay online — all in one flow.
 This project is an early-stage prototype focused on clean UX, real-world feasibility, and scalability, not gimmicks.
 
